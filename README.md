@@ -4,8 +4,6 @@
 
 # 👋 Bienvenue sur mon profil GitHub!
 
-
-
 Salut, je suis Florian, un passionné de développement logiciel qui aime repousser les limites du code et explorer de nouvelles opportunités. Mon objectif est de créer des projets innovants et d'apprendre constamment.
 
 ## 🚀 Ce que je fais
