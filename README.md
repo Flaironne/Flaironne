@@ -8,13 +8,13 @@ Salut, je suis Florian, un passionné de développement logiciel qui aime repous
 
 ## 🚀 Ce que je fais
 
-- Développement Web avec React, Html, Css
+- Développement Web avec React, Html, Css, Vue, 
 - Programmation en Python, C, Java
-- Passionné par la danse de salon
+- Pratiquant de danse de salon et musculation
 
 ## 🌱 Actuellement :
 
-Je suis en formation pré-Msc à Epitech
+Je suis en formation Msc-2 à Epitech
 
 ## 💬 Contactez-moi
 
