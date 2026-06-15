@@ -1,32 +1,92 @@
-### Hi there 👋
+# Hi 👋 I'm Florian Wu
 
-![Flaironne's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaironne&show_icons=true&theme=tokyonight)
+### Full Stack Developer | AI & Big Data Student at EPITECH
 
-# 👋 Bienvenue sur mon profil GitHub!
+Passionate about software engineering, backend development, artificial intelligence, and scalable web applications. I enjoy building robust solutions, learning new technologies, and turning ideas into real products.
 
-Salut, je suis Florian, un passionné de développement logiciel qui aime repousser les limites du code et explorer de nouvelles opportunités. Mon objectif est de créer des projets innovants et d'apprendre constamment.
+---
 
-## 🚀 Ce que je fais
+## 🚀 About Me
 
-- Développement Web avec React, Html, Css, Vue, 
-- Programmation en Python, C, Java
-- Pratiquant de danse de salon et musculation
+🎓 MSc Pro student at EPITECH (Class of 2026)
 
-## 🌱 Actuellement :
+💼 33 months of professional experience through apprenticeships
 
-Je suis en formation Msc-2 à Epitech
+🤖 Interested in Artificial Intelligence, Machine Learning and Data Engineering
 
-## 💬 Contactez-moi
+🌍 Based in France
 
-Je suis ouvert à la collaboration sur des projets passionnants et aux opportunités de développement. N'hésitez pas à me contacter sur [LinkedIn](https://www.linkedin.com/in/florian-wu-2b6640250/) ou par e-mail à wuflorian2000@mail.com.
+🎯 Looking for a Full Stack / Backend Developer position starting October 2026
 
-<!--
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+### Languages
 
-- ⚡ Fun fact: ...
--->
+* Python
+* Golang
+* JavaScript / TypeScript
+* Java
+* C
+
+### Backend
+
+* FastAPI
+* Node.js
+* Express.js
+* REST APIs
+
+### Frontend
+
+* React
+* Vue.js
+* HTML5
+* CSS3
+
+### Databases
+
+* PostgreSQL
+* MySQL
+* MongoDB
+
+### DevOps & Tools
+
+* Docker
+* Git
+* GitHub Actions
+* Linux
+
+### AI & Data
+
+* Machine Learning
+* Reinforcement Learning
+* Data Analysis
+* LLM Applications
+
+---
+
+## 📈 GitHub Statistics
+
+![Flaironne's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaironne\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaironne\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🌱 Currently Learning
+
+* Software Architecture
+* Cloud & DevOps
+* Advanced AI Systems
+* Distributed Applications
+
+---
+
+## 💬 Let's Connect
+
+💼 LinkedIn: [www.linkedin.com/in/florian-wu-2b6640250](http://www.linkedin.com/in/florian-wu-2b6640250)
+
+📧 Email: [wuflorian2000@mail.com](mailto:wuflorian2000@mail.com)
+
+Feel free to reach out if you want to collaborate on a project, discuss technology, or share opportunities!
